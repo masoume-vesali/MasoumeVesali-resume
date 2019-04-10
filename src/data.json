@@ -1,0 +1,70 @@
+{
+  "button" :"color",
+  "manu" :"Home | about",
+  "title": "Hello I am MasoumeVesali!",
+  "Subtitle": "Front-End | Html | css | Bootstrap | js | React.js",
+  "links": {
+    "linkedin": "https://www.linkedin.com/feed/",
+    "telegram": "@software_mv",
+    "virgool": "https://virgool.io/@m92.vesali"
+  },
+  "Sections": [
+    {
+      "title": "درباره ی خودم",
+      "item": [
+        {
+          "type": "p",
+          "content": "علاقه مند به فرانت اند و یاد گیری زبان های بیشتر برنامه نویسی"
+        }
+      ]
+    },
+
+    {
+      "title": "بخشایی که یاد گرفتم",
+      "item": [
+        {
+          "type": "Card",
+          "content": {
+            "image": "images/react.jpg",
+            "title": "React"
+          }
+        },
+
+        {
+          "type": "Card",
+          "content": {
+            "image": "images/js.png",
+            "title": "JavaScript"
+          }
+        },
+
+        {
+          "type": "Card",
+          "content": {
+            "image": "images/Html.png",
+            "title": "Html"
+          }
+        },
+
+        {
+          "type": "Card",
+          "content": {
+            "image": "images/css.jpg",
+            "title": "Css"
+          }
+        },
+
+        {
+          "type": "Card",
+          "content": {
+            "image": "images/bootstrap.jpg",
+            "title": "Bootstrap"
+          }
+        }
+      ]
+    }
+  ],
+  "icons": {
+    "down" : "images/down.png"
+  }
+}

@@ -1,0 +1,28 @@
+.first{
+    background: #5F9EA0;
+    color: #fff;
+    padding: 150px 0 0 0;
+}
+.second{
+    background: #5F9BA0;
+    color: #fff;
+    padding: 150px 0 0 0;
+}
+
+.icon{
+    padding-bottom: 100px;
+    
+}
+.cards-wrapper{
+    display: inline-flex;
+}
+h3{
+    padding: 69px 0px 29px 0px;
+    font-size: 5vw;
+}
+.third{
+    margin-top: -71px;
+}
+/* h5{
+    float: right;
+} */

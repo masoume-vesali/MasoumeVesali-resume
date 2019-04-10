@@ -1,0 +1,10 @@
+.third{
+    background: #ffb3b3;
+    color: #fff;
+}
+.icon-wrapper{
+    display: inline-flex;
+}
+.icon{
+    padding: 22px 33px 100px 0;
+}
